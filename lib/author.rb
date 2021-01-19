@@ -3,8 +3,5 @@ class Author
 
     def initialize(name='Uncle Bob')
         @name = name
-        
     end
-
-
 end
